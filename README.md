@@ -14,8 +14,8 @@ For example, typing "funky-wl javasaurusstudios" will add javasaurusstudios to t
 
 **NOTE**
 
-This bot needs to run on a system that has Java installed. Please refer to https://www.java.com/en/download/help/windows_manual_download.html .
-
+* This bot needs to run on a system that has Java installed. Please refer to https://www.java.com/en/download/help/windows_manual_download.html .
+* Please activate the bot only when you are under "attack". There is no sense otherwise in keeping the bot online as it might lead to false positives. Turn off the bot when you are not being harassed.
 
 
 www.twitch.tv/javasaurusstudios
