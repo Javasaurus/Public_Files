@@ -8,3 +8,12 @@
 
 You can add accounts to a whitelist to prevent them from being banned by using the "!funky-wl [username]" account. 
 For example, typing "funky-wl javasaurusstudios" will add javasaurusstudios to the whitelist for that channel.
+
+
+**NOTE**
+
+This bot needs to run on a system that has Java installed. Please refer to https://www.java.com/en/download/help/windows_manual_download.html .
+
+
+
+twitch.tv/javasaurusstudios
