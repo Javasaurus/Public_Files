@@ -1,3 +1,5 @@
+
+
 #HOW TO USE :
 
 1. Download the FunkyDactylBot zip file
@@ -16,4 +18,4 @@ This bot needs to run on a system that has Java installed. Please refer to https
 
 
 
-twitch.tv/javasaurusstudios
+www.twitch.tv/javasaurusstudios
