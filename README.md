@@ -5,11 +5,12 @@
 1. Download the FunkyDactylBot zip file
 2. Unzip to a location you can remember (contact JavasaurusStudios on twitch for a password)
 3. Double click the jar file in the folder
-4. Fill in the channel to protect (FunkyDactyl should be a moderator there, to achieve this, type "/mod FunkyDactyl" in the channels chat.
+4. Fill in the channel to protect (the account that is running the bot should be a moderator there, to achieve this, type "/mod username" in the channels chat.
+   For example, typing "/mod javasaurusstudios" will make javasaurusstudios a moderator
 5. Press start
 
 You can add accounts to a whitelist to prevent them from being banned by using the "!funky-wl [username]" account. 
-For example, typing "funky-wl javasaurusstudios" will add javasaurusstudios to the whitelist for that channel.
+For example, typing "!funky-wl javasaurusstudios" will add javasaurusstudios to the whitelist for that channel.
 
 
 **NOTE**
